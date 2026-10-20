@@ -1,1 +1,2 @@
-Hi here we are connecting Genkins to Git
+Hi here we are connecting jenkins to Git
+I am trying jenkins
